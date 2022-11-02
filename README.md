@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi 👋 My name is Elvijs Podnieks
+================================
+
+Java Software Developer
+----
+
+*   ✉️  You can contact me at [elvijspodnieks@gmail.com](mailto:elvijspodnieks@gmail.com)
+*   🧠  I'm learning Java Spring framework
+
 <!--
 **elvijspodnieks/elvijspodnieks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
