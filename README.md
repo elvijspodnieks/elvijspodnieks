@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Elvijs Podnieks</h1>
 <h3 align="center">I'am Java Software Developer from Latvia</h3>
 
-- 🌱 I’m currently learning **Java Spring framework**
+- 🌱 I’m currently learning **React framework**
 
 - 📫 How to reach me **elvijspodnieks@gmail.com**
 
